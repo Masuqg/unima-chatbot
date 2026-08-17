@@ -1,2 +1,2 @@
 flask>=3.0
-gunicorn>=21.2
+gunicorn>=21.2   # production server used by the host (run locally with: python app.py)
